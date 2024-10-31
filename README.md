@@ -1,4 +1,4 @@
-# ok
+# Bai tap 1 flutter Dang Xuan Hung va Tran Van An
 
 A new Flutter project.
 
@@ -14,4 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-"# Flutter_Bai1_DangXuanHung_TranVanAn" 
+"# Flutter_Bai1_DangXuanHung_TranVanAn"
